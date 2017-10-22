@@ -1,0 +1,10 @@
+1. Think of a variable as a bucket to store your stuff. You could put a number in the bucket like 10 or 23490 or even letters and words like 'Super crazy cool'.
+
+2. Think of strings a necklace of letters. The necklace could have one letter like 'a' or could have an entire sentence like 'Javascript is cool!'. Strings could even have numbers but, we'll get into that later.
+
+3. Functions are a rapper around bits of code that you want to reuse. Like instead of typing in 'Hello Aaron, How are you today?' every time you want your computer to greet you. You could just right a function that did it for you. Then you would just call the function lets call it 'greeting();' but, lets say you wanted your function to greet anyone different. Well that's where arguments come in and those funny '()' at the end of the greeting function call. You could change your function a bit then call it with an argument like 'greeting('Mike')' and it would change the name in the greeting to 'Mike'.
+
+4. Sometimes you need to make decisions in your code to do something different depending on a condition like is 1 the same as 1 then do this or is 'Aaron' the same name as 'Mike'.
+These yes or no questions came direct you program to do lots of cool stuff.
+
+5. Computers don't understand english yes or no question so these use things called booleans that represent them. So 'yes' is 'true' and 'false' is 'no' more or less. Is 'Mike' the same name as 'Aaron', No or false. Is 1 equal to 1, yes or true.
